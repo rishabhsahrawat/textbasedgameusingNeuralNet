@@ -1,7 +1,3 @@
-```python
-s = "Python syntax highlighting"
-print s
-```
 import keras
 from keras.models import Sequential, Model
 from keras.layers import LSTM, Dense, Embedding, Merge, MaxPool3D
